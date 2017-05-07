@@ -3,4 +3,4 @@
 实现 Hello World 原型
 
 - Templates: css + Bootstrap
-- Web 开发技术站：html+css+js+python+django+server
+- Web 开发技术栈：html+css+js+python+django+server
