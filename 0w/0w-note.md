@@ -176,7 +176,7 @@
     + macOS
         * 默认安装了 Python 2.7
         * CLI
-            - 
+            - pyenv install 3.6.1
         * GUI
             - find
                 + [Python.org](https://www.python.org/)
@@ -188,7 +188,7 @@
     + Linux
         * 默认安装了 Python 2.7
         * CLI
-            - 
+            - pip install py
         * GUI
             - like macOS
     + Windows
